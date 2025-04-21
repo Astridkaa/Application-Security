@@ -1,9 +1,9 @@
 # Application Security - Protokolle
 
 ### Gruppenmitglieder: 
-Lorenzo Haidinger
-Astrid Kuzma-Kuzniarski
-Philip Magnus
+- Lorenzo Haidinger
+- Astrid Kuzma-Kuzniarski
+- Philip Magnus
 
 ## Protokolle
 
